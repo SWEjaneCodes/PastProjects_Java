@@ -1,3 +1,5 @@
+IMPORTANT: I am unable to work on projects right now as I am currently in school and have to focus on my studies. Projects will continue rolling in next summer.
+
 This repository contains the projects I have worked on so far. It includes games and bank simulations.
 
 What the files do specifically:
