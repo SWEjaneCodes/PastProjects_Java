@@ -1,4 +1,4 @@
-IMPORTANT: I am unable to work on projects right now as I am currently in school and have to focus on my studies which is why projects will continue rolling in next summer.
+IMPORTANT: I am unable to work on projects right now as I am currently in school and have to focus on my studies. That being said this does not mean that I will stop completely and will continue in the summer.
 
 This repository contains the projects I have worked on so far. It includes games and bank simulations.
 
